@@ -7,7 +7,8 @@ Viviana Abigail</h1> <h3 align="center">Desarrollador Full-Stack</h3>
 
 
 
-- 💬Presa sobre **react, redux, express, javascript** - 📫 Contacto **cruzabi994@gmail.com**
+- 💬Presa sobre **react, redux, express, javascript** 
+- - 📫 Contacto **cruzabi994@gmail.com**
 
 <h3 align="left"> Conéctese conmigo:</h3>
 <p align="left">
